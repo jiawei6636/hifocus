@@ -7,4 +7,4 @@
   
 📞 Feel free to contact me through 📧 **email** or any other announced contact method if you have any concerns on anything involves me. Typical response time ⏳ is **24** hours.
 
-> *There are so many imperfections in this world; I am willing determined to bring improvements.*  
+> *There are so many imperfections in this world; I am passionate at bringing improvements.*  
