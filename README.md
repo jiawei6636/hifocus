@@ -9,4 +9,8 @@
 ⏳ Typical response time is **24** hours.
 
 > *There are so many imperfections in this world; I am determined to bring improvements.*  
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=hifocus.hifocus"></p>
+<p align="center">
+  <img src="https://i.imgur.com/d2p9BsU.gif" width="64px" height="auto">
+    <br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=hifocus.hifocus">
+</p>
