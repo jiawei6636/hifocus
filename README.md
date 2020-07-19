@@ -3,7 +3,7 @@
 </p>  
 
 ### nǐ hǎo, 你好
-> I am _**Focus**_, a newbie developer from <a href="https://en.wikipedia.org/wiki/China"><img align="center" width="20px" src="https://cdn.statically.io/gh/hifocus/hifocus/master/chinese-flag.svg"></a>.    
+> I am _**Focus**_, a newbie developer from <a href="https://en.wikipedia.org/wiki/China"><img align="center" width="16px" src="https://cdn.statically.io/gh/hifocus/hifocus/master/chinese-flag.svg"></a>.    
 > 我是惶心，来自中国的萌新开发者。
 
 > *There are so many imperfections in this world; I am determined to bring improvements.*  
